@@ -16,10 +16,11 @@
 title: Orthogonal to the world 
 email: aklyussef@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Here is where I share my thoughts my work and my hobbies a space 
-  orthogonal to the rest of the world yet relevant to a select few
-  topics will include machine learning anomaly detection python programming
-  real estate projects education martial arts spirituality and more sayck stuff
+  Here is where I share my thoughts my work and my hobbies. A space 
+  orthogonal to the rest of the world, yet relevant to a select few.
+  Topics will include machine learning, anomaly detection for counterfeit drug detection, data science & visualization,
+  miscellaneous python programming tips, design patterns, system design, tech entrepreneurship
+  ,real estate projects, education, martial arts, spirituality, and more sayck stuff
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://siempreakl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nohaytodavia
