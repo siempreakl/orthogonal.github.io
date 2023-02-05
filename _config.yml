@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   orthogonal to the rest of the world yet relevant to a select few
   topics will include machine learning anomaly detection python programming
   real estate projects education martial arts spirituality and more sayck stuff
-baseurl: "/blog/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://siempreakl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nohaytodavia
 github_username:  siempreakl
