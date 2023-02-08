@@ -16,9 +16,6 @@ Overall, the use of anomaly detection in NIR spectroscopy is a rapidly growing a
 
 Counterfeit medication is a major problem that not only affects the pharmaceutical industry, but also poses a serious threat to public health. According to the World Health Organization (WHO), it is estimated that counterfeit medications cause between 10,000 to 100,000 deaths worldwide each year. These fake drugs are often manufactured with cheap and potentially dangerous ingredients, and are difficult to detect without specialized equipment and expertise. However, by combining the power of near infrared (NIR) spectroscopy and anomaly detection algorithms, we can fight back against this growing problem and ensure the safety and efficacy of medications.
 
-## What is NIR Spectroscopy and Anomaly Detection?
-
-NIR spectroscopy is a non-destructive method of analyzing the molecular composition of materials. By shining light in the near infrared range on a sample, the unique molecular vibrations of different compounds can be detected and used to identify the chemical composition of the sample. Anomaly detection is a machine learning technique that identifies patterns or deviations in data that do not conform to the expected behavior. In the context of NIR spectroscopy, this means identifying samples that have a distinct chemical composition compared to the rest of the dataset.
 
 ## Using NIR Spectroscopy and Anomaly Detection to Fight Counterfeit Medication
 
