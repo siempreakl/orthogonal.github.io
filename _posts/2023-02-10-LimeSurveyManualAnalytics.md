@@ -138,7 +138,9 @@ plt.show()
 
 ## Conclusion
 
-I hope you enjoyed this post, although this was a fairly basic demo of analytics automation using python, the possibilities of using these tools to perform custom analytics are really endless. Consider using machine learning in the context of survey responses to:
+I hope you enjoyed this post, although this was a fairly basic demo of analytics automation using python, the possibilities of using these tools to perform custom analytics are really endless. The code in this tutorial alone can be compiled into a command line tool to automatically extract any question's answers and visualize them in a bar chart saving valuable time compiling answers manually in Excel. 
+
+Also consider using machine learning in the context of survey responses to:
 
 <ol>
     <li>Classify responses: Machine learning algorithms can be trained to automatically classify responses into categories such as positive or negative sentiment, customer service issues, or product feature requests.</li>
