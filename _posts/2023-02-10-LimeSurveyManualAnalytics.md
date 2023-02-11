@@ -136,3 +136,18 @@ plt.show()
 ![png](/assets/images/LimeSurveyAnalytics_files/LimeSurveyAnalytics_15_0.png)
     
 
+## Conclusion
+
+I hope you enjoyed this post, although this was a fairly basic demo of analytics automation using python, the possibilities of using these tools to perform custom analytics are really endless. Consider using machine learning in the context of survey responses to:
+
+<ol>
+    <li>Classify responses: Machine learning algorithms can be trained to automatically classify responses into categories such as positive or negative sentiment, customer service issues, or product feature requests.</li>
+
+    <li>Predict outcomes: Machine learning models can be used to predict outcomes such as customer satisfaction, purchase intent, or churn risk based on survey responses and other data.</li>
+
+    <li>Identify patterns: Machine learning algorithms can be used to identify patterns in the survey data, such as common themes or correlations between different questions.</li>
+
+    <li>Generate insights: Machine learning can be used to automatically generate insights from the survey data, such as identifying the most common pain points or highlighting the factors that drive customer satisfaction.</li>
+</ol>
+
+I’m a firm believer in the power of technology to make a positive impact in the world, and I’m dedicated to using my skills to help others. So, if you’re looking for a knowledgeable and enthusiastic guide to help your organization unlock the hidden potential in it's data, don’t hesitate to reach out. I’d be honored to help in any way I can.	
